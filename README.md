@@ -1,4 +1,4 @@
-Beginner to-do app design
+Beginner to-do app home page design
 
 ## Getting Started
 
