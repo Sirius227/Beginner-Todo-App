@@ -1,6 +1,6 @@
 # todo_app
 
-Not alma uygulaması
+Beginner to-do app design
 
 ## Getting Started
 
