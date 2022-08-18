@@ -1,5 +1,3 @@
-# todo_app
-
 Beginner to-do app design
 
 ## Getting Started
